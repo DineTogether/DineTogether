@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edittext_name" type="id">edittext_name</item>
+    <item name="edittext_Cphone" type="id">edittext_Cphone</item>
+    <item name="edittext_password" type="id">edittext_password</item>
+    <item name="edittext_cnfpassword" type="id">edittext_cnfpassword</item>
+    <item name="login" type="id">login</item>
+    <item name="button_register" type="id">button_register</item>
+    <item name="etname" type="id">etname</item>
+    <item name="etemail" type="id">etemail</item>
+    <item name="etPnumber" type="id">etPnumber</item>
+    <item name="etpassword" type="id">etpassword</item>
+    <item name="btndelete" type="id">btndelete</item>
+    <item name="btnupdate" type="id">btndelete</item>
+</resources>
