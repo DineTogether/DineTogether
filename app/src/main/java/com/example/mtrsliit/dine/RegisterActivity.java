@@ -69,6 +69,8 @@ public class RegisterActivity extends AppCompatActivity {
             return;
         }*/
         mbuttonRegister.setEnabled(false);
+        //test
+
 
         final ProgressDialog progressDialog = new ProgressDialog(RegisterActivity.this, R.style.Theme_AppCompat_DayNight_Dialog);
         progressDialog.setIndeterminate(true);
